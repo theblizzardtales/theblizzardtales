@@ -2,7 +2,9 @@
   <img src="fb.png">
 </p>
 
-# 🐧 Get to know a little about me! 🐧
+<h1 align="center">
+🐧 Get to know a little about me! 🐧
+</h1>
 
 ___
 
@@ -50,7 +52,7 @@ ___
 
 ### 📖Brief History about the tools used:
 
-#### [Bash (Bourne Again SHell](https://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html)
+#### [Bash (Bourne Again SHell)](https://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html)
 It helped to learn how to use commands, create scripts, as well as to operate Linux just from the terminal.
 
 #### [Java](https://docs.oracle.com/javase/tutorial/)
