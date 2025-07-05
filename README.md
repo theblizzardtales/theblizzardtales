@@ -51,11 +51,7 @@ It was used for our subject, Web System and Development. I learned how to create
 #### [Linux](https://www.kernel.org/)
 It made me realize that it wasn't only just Windows and macOS; there's also this penguin that somehow helped my Pentium to still be usable in this day and age.
 
-Why the username `CtrlAltBlizzard`?
-> It was derived from Ctrl+Alt+Delete, the Windows Keybind that allows the user to terminate a task or reboot the system.
->> As for Blizzard, it was from the mobile game I used to play called "Respawnables", which eventually died in 2022. A bot named "Blizzard" always looked cool for me, and since Blizzard alone is very common, I used a combination to make it a little unique, and also nerdy :P.
-
 ___
 <h5 align="center">
-Last Edited: June 20, 2025
+Last Edited: July 5, 2025
 </h5>
