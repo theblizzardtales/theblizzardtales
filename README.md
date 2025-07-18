@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="fb.png">
-</p>
-
 <h1 align="center">
 🐧 Get to know a little about me! 🐧
 </h1>
