@@ -28,8 +28,8 @@
 │    └── B-Tree File System
 └── My repositories:
       ├── river_debian
-      ├── debloat-infinix
-      └── debianities
+      ├── sway_debian
+      └── debloat-infinix
 ```
 
 - Discord: theblizzardtales
