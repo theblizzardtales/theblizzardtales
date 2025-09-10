@@ -15,7 +15,6 @@
 │    ├── Debian Linux
 │    └── Windows 11
 ├── Interests:
-│    ├── Bash Scripting
 │    ├── Linux Kernel
 │    ├── SQL & Databases
 │    └── Shell Scripting (sh | bat)
@@ -28,6 +27,7 @@
 │    ├── Programming Language/s (Java, C (any from the family tree), Zig)
 │    └── B-Tree File System
 └── My repositories:
+      ├── river_debian
       ├── debloat-infinix
       └── debianities
 ```
